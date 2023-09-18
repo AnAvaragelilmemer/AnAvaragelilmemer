@@ -1,4 +1,4 @@
-## 👋 Hi, am xeroa <3
+## 👋 Hi, am rtaxevasion <3
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnAvaragelilmemer&show_icons=true&theme=tokyonight)
 ## 📃 Projects that i currently develop and used to develop.
 
@@ -18,7 +18,7 @@ Pissware has over 70+ Unique features! Being:
 
   
 
-  If you ever want to use Pissware, just press [this link](https://github.com/AnAvaragelilmemer/Pissware/blob/main/Utility/Misc/script?raw=true) to use it.
+  If you ever want to use Pissware, just press [this link](https://github.com/AnAvaragelilmemer/Pissware/blob/main/Utility/Misc/mobilescript.lua?raw=true) to use it.
 
   
 
