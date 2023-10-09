@@ -59,7 +59,7 @@ Homebrew has less features than Pissware, but here are some features:
 local aboutme = {
 ["laungage"] = "Lua",
 ["pronouns"] = "he/him",
-["discord"] = "xeroa#0339",
+["discord"] = "rtaxevasion",
 ["country"] = "Philippines"
 }
 for i,v in pairs(aboutme) do
