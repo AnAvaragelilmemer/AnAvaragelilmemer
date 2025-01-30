@@ -1,4 +1,4 @@
-## 👋 Hi, am rtaxevasion <3
+## 👋 Hi, am rtaxevasion 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnAvaragelilmemer&show_icons=true&theme=tokyonight)
 ## 📃 Projects that i currently develop and used to develop.
 
@@ -60,7 +60,6 @@ local aboutme = {
 ["laungage"] = "Lua",
 ["pronouns"] = "he/him",
 ["discord"] = "rtaxevasion",
-["country"] = "Philippines"
 }
 for i,v in pairs(aboutme) do
 print(i..": "..v)
